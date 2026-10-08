@@ -1,0 +1,56 @@
+{
+  "_nota": "Verdad de terreno anotada por inspeccion visual de cada imagen (las cajas se revisaron una por una sobre la figura ampliada). Sirve como test de regresion del detector, no como benchmark independiente. El conteo de coca_multi.png se hizo contando a mano los logos completos sobre los dos estantes.",
+  "item1": {
+    "COCA-COLA-LOGO.jpg": [
+      25,
+      480,
+      1245,
+      365
+    ],
+    "coca_logo_1.png": [
+      35,
+      210,
+      160,
+      50
+    ],
+    "coca_logo_2.png": [
+      0,
+      130,
+      230,
+      80
+    ],
+    "coca_multi.png": [
+      565,
+      435,
+      90,
+      25
+    ],
+    "coca_retro_1.png": [
+      105,
+      120,
+      515,
+      145
+    ],
+    "coca_retro_2.png": [
+      65,
+      195,
+      150,
+      45
+    ],
+    "logo_1.png": [
+      205,
+      215,
+      280,
+      90
+    ]
+  },
+  "conteo_multiples": {
+    "COCA-COLA-LOGO.jpg": 1,
+    "coca_logo_1.png": 1,
+    "coca_logo_2.png": 1,
+    "coca_multi.png": 17,
+    "coca_retro_1.png": 1,
+    "coca_retro_2.png": 1,
+    "logo_1.png": 1
+  }
+}

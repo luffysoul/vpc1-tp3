@@ -1,0 +1,9 @@
+# Versiones con las que se ejecutó el notebook (Python 3.10)
+numpy==1.26.2
+opencv-python==4.8.1.78
+matplotlib==3.8.2
+pillow==10.0.1
+nbformat==5.10.4
+nbclient==0.10.4
+jupyter
+ipykernel
